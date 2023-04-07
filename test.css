@@ -1,0 +1,19 @@
+#vis3 {
+    margin: auto;
+    width: 30%;
+    background-color: bisque;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#vis4 {
+    margin: auto;
+    width: 50%;
+    background-color: bisque;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
